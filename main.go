@@ -31,6 +31,10 @@ func getType(jsonPartValue interface{}) interface{}{
 	switch jsonPartValue.(type) {
 	case []interface{}:
 		casted := jsonPartValue.([]interface{})
+		if len(casted) <=0 {
+			// assume type string
+			casted = append(casted, "")
+		}
 		return casted[0]
 	default:
 		return jsonPartValue
