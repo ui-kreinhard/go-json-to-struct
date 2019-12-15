@@ -1,0 +1,13 @@
+{"ok":true,"result":1, "bla":"asdf", "sub":{"ok":true,"result":1, "bla":"asdf"}}
+{"ok":true,"result":1, "float": 1.1, "bla":"asdf", "arrayPrim": ["a", "b"], "sub":{"ok":true,"result":1, "bla":"asdf"}, "arrayObj": [{"a" :1}]}
+{"ok":true,"result":1, "float": 1.1, "bla":"asdf", "arrayPrim": ["a", "b"], "sub":{"ok":true,"result":1, "bla":"asdf"}}
+{"arrayObj": [{"a" :1}]}
+{"ok":true,"result":1, "float": 1.1, "bla":"asdf", "sub":{"sub_ok":true,"sub_result":1, "sub_bla":"asdf"}}
+{"bla":["a"]}
+{"ok":true,"result":1, "bla":"asdf", "sub":{"ok":true,"result":1, "bla":"asdf"}, "created": "2019-12-14T16:05:56+01:00"}
+{"id":3,"uid":"B16FS7fWz","name":"adsf","type":"email","isDefault":false,"sendReminder":false,"disableResolveMessage":false,"frequency":"","created":"2019-12-14T16:05:56+01:00","updated":"2019-12-14T16:07:42+01:00","settings":{"addresses":"adf","autoResolve":true,"httpMethod":"POST","uploadImage":true}}
+
+[{"id":3,"uid":"B16FS7fWz","name":"adsf","type":"email","isDefault":false,"sendReminder":false,"disableResolveMessage":false,"frequency":"","created":"2019-12-14T16:05:56+01:00","updated":"2019-12-14T16:07:42+01:00","settings":{"addresses":"adf","autoResolve":true,"httpMethod":"POST","uploadImage":true}},]
+
+
+{"id":3,"uid":"B16FS7fWz","name":"adsf","type":"email","isDefault":false,"sendReminder":false,"disableResolveMessage":false,"frequency":"","created":"2019-12-14T16:05:56+01:00","updated":"2019-12-14T16:07:42+01:00","settings":{"addresses":"adf","autoResolve":true,"httpMethod":"POST","uploadImage":true}}
